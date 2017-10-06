@@ -1,0 +1,26 @@
+#chatbox {
+    margin-bottom: 25px;
+    padding: 40px;
+    background: #fff;
+    height: 270px;
+    width: 75%;
+    border: 1px solid #ACD8F0;
+}
+
+.inputbox {
+    min-width: 300px;
+    max-width: 20%;
+}
+
+.vertical-center {}
+
+@media only screen and (max-width: 450px) {
+    .inputbox {
+        min-width: 80%;
+        max-width: 100%;
+    }
+    .btn-danger {
+        margin-top: 8px;
+        min-width: 100%;
+    }
+}

@@ -1,2 +1,2 @@
-# creative2
-Creative Assignment 2
+# creative1
+creative project 1 for cs260
